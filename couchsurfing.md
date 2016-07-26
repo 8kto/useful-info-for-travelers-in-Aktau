@@ -1,5 +1,5 @@
-# Useful info for travelers in Aktau
-This is a page with quick tips for those who traveling in Aktau, Mangystau. Firstly it was a short infoblock on our [couchsurfing profile](https://www.couchsurfing.com/people/brightcurly) (and then not so short) but since CS is not a place for such info we decided to place it here, on our travelblog (only in Russian).
+# Useful info for travelers in Aktau (Kazakhstan)
+This is a page with quick tips for those who traveling in Aktau, Mangystau. Firstly it was a short infoblock on our [couchsurfing profile](https://www.couchsurfing.com/people/brightcurly) (and then not so short) but since CS is not a place for such info we decided to place it here, on [our travelblog](http://travelugi.com) (only in Russian).
 
 Well, [this page on wikipedia](https://en.wikipedia.org/wiki/Aktau) is clearly describes the city (optional).
 Also [this article on wikivoyage](https://en.wikivoyage.org/wiki/Aktau) has very useful tips about the city despite of little outdates. Its definitely worth to read.
@@ -72,5 +72,7 @@ In two words: it works. First you have to reach suburbs to catch a car to the ri
 We had create this page only for improving travel expirience in our city, not for any commercial purposes.
 
 Feel free to leave feedback about your own expirience in Mangystau. Contact us if you able to correct our English text or make it better.
+
+Edit this article on GitHub: https://github.com/8kto/useful-info-for-travelers-in-Aktau
 
 **Have a nice trip!**
