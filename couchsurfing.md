@@ -16,7 +16,7 @@ Map includes a lot of helpful marks like hotels, cultural centres, markets, cafe
 
 
 ## Accomodation
-Most cheapest option — to rent an apartment from private owners (although we doubt you can get cheapest price than in hostel but more space). Its possible to do at district 11, nearby building 24 ([on map](http://www.aktau-business.com/gmap/?coord=43.656152,51.152505&z=17&t=k)). Usually there is a crowd of noisy women that rents apartments for locals (you have to ask them for accommodation straight on the street, better ask your Russian/Kazakh-speaking friend to help you).
+Most cheapest option — to rent an apartment from private owners (although we doubt you can get cheapest price than in hostel but more space). Its possible to do at district 11, nearby building 24 ([on a map](http://www.aktau-business.com/gmap/?coord=43.656152,51.152505&z=17&t=k)). Usually there is a crowd of noisy women that rents apartments for locals (you have to ask them for accommodation straight on the street, better ask your Russian/Kazakh-speaking friend to help you).
 
 1. Mini-hostel (1500-3000 KZT per person)
     - mobile phone num: +77013334442, +77753631907
@@ -63,7 +63,7 @@ Maybe you would find some interesting tours here (_no ads, also we haven't any i
 
 
 ## Camping
-We have not any reports about such episodes, but we are pretty shure that its a bad idea to do camping inside the city. Its always crowded and moreover, there are police patrols that can catch you and provide some troubles. Try to found free place on a beaches like here: [first point](https://goo.gl/maps/vEU5YiL9fc22), [second one](https://goo.gl/maps/rbr4R4SNivH2), [another](https://goo.gl/maps/bYHiMzgWtLo) or outside the city. However there is a [public park Akbota](https://goo.gl/maps/Aau19Yh51p92) you could try.
+We have not any reports about such episodes, but we are pretty shure that its a bad idea to do camping inside the city. Its always crowded and moreover, there are police patrols that can catch you and provide some troubles. Try to find free place on a beaches like here: [first point](https://goo.gl/maps/vEU5YiL9fc22), [second one](https://goo.gl/maps/rbr4R4SNivH2), [another](https://goo.gl/maps/bYHiMzgWtLo) or outside the city. However there is a [public park Akbota](https://goo.gl/maps/Aau19Yh51p92) you could try.
 
 ## Hitchhike
 In two words: it works. First you have to reach suburbs to catch a car to the right direction. You can use buses: bus number 3 goes towards the airport (but stops somewhere in the city end), bus number 2 or 3 goes towards the seaport (again, it stops somewhere nearby beach at district 1 (not 2nd bus, it goes further)). Be careful: buses goes in both directions (to and from).
