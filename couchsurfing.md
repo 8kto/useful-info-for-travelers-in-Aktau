@@ -2,7 +2,7 @@
 This is a page with quick tips for those who traveling in Aktau, Mangystau. Firstly it was a short infoblock on our [couchsurfing profile](https://www.couchsurfing.com/people/brightcurly) (and then not so short) but since CS is not a place for such info we decided to place it here, on [our travelblog](http://travelugi.com) (only in Russian).
 
 Well, [this page on wikipedia](https://en.wikipedia.org/wiki/Aktau) is clearly describes the city (optional).
-Also [this article on wikivoyage](https://en.wikivoyage.org/wiki/Aktau) has very useful tips about the city despite of little outdates. Its definitely worth to read.
+Also [this article on wikivoyage](https://en.wikivoyage.org/wiki/Aktau) has very useful tips about the city despite being just a bit outdated. Its definitely worth to read.
 
 Useful map of Aktau available here: <http://www.aktau-business.com/gmap/>.
 Map includes a lot of helpful marks like hotels, cultural centres, markets, cafe, restaurants, tourist's companies, plain & train tickets etc.
@@ -13,6 +13,7 @@ Map includes a lot of helpful marks like hotels, cultural centres, markets, cafe
 - Taxi fares inside the city: 200-300 KZT
 - Taxi from city to seaport (ferry) costs 1000 KZT
 - City bus fares: 50 KZT ([bus routes](http://www.aktau-business.com/bus/))
+- Bus num 105 goes to the railway station
 
 
 ## Accomodation
