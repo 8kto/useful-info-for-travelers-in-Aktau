@@ -1,8 +1,8 @@
 # Useful info for travelers in Aktau (Kazakhstan)
-This is a page with quick tips for those who traveling in Aktau, Mangystau. Firstly it was a short infoblock on our [couchsurfing profile](https://www.couchsurfing.com/people/brightcurly) (and then not so short) but since CS is not a place for such info we decided to place it here, on [our travelblog](http://travelugi.com) (only in Russian).
+This is a page with quick tips for those who traveling in Aktau, Mangystau. Firstly it was a short info block on our [couchsurfing profile](https://www.couchsurfing.com/people/brightcurly) (and then not so short) but since CS is not a place for such info we decided to place it here, on [our travelblog](http://travelugi.com) (only in Russian).
 
 Well, [this page on wikipedia](https://en.wikipedia.org/wiki/Aktau) is clearly describes the city (optional).
-Also [this article on wikivoyage](https://en.wikivoyage.org/wiki/Aktau) has very useful tips about the city despite being just a bit outdated. Its definitely worth to read.
+Also [this article on wikivoyage](https://en.wikivoyage.org/wiki/Aktau) has very useful tips about the city despite being just a bit outdated. It's definitely worth the read.
 
 Useful map of Aktau available here: <http://www.aktau-business.com/gmap/>.
 Map includes a lot of helpful marks like hotels, cultural centres, markets, cafe, restaurants, tourist's companies, plain & train tickets etc.
@@ -17,7 +17,7 @@ Map includes a lot of helpful marks like hotels, cultural centres, markets, cafe
 
 
 ## Accomodation
-Most cheapest option — to rent an apartment from private owners (although we doubt you can get cheapest price than in hostel but more space). Its possible to do at district 11, nearby building 24 ([on a map](http://www.aktau-business.com/gmap/?coord=43.656152,51.152505&z=17&t=k)). Usually there is a crowd of noisy women that rents apartments for locals (you have to ask them for accommodation straight on the street, better ask your Russian/Kazakh-speaking friend to help you).
+The cheapest option to rent an apartment from private owners (although we doubt you can get cheaper price than a hostel but maybe more space). It's possible to do at district 11, nearby building 24 ([on a map](http://www.aktau-business.com/gmap/?coord=43.656152,51.152505&z=17&t=k)). Usually there is a noisy crowds of women that rents an apartments for locals (you have to ask them for accommodation straight on the street (not any office), better ask your Russian/Kazakh-speaking friend to help you).
 
 1. Mini-hostel (1500-3000 KZT per person)
     - mobile phone num: +77013334442, +77753631907
@@ -64,10 +64,10 @@ Maybe you would find some interesting tours here (_no ads, also we haven't any i
 
 
 ## Camping
-We have not any reports about such episodes, but we are pretty shure that its a bad idea to do camping inside the city. Its always crowded and moreover, there are police patrols that can catch you and provide some troubles. Try to find free place on a beaches like here: [first point](https://goo.gl/maps/vEU5YiL9fc22), [second one](https://goo.gl/maps/rbr4R4SNivH2), [another](https://goo.gl/maps/bYHiMzgWtLo) or outside the city. However there is a [public park Akbota](https://goo.gl/maps/Aau19Yh51p92) you could try.
+We have not any reports about such episodes, but we are pretty shure that it's a bad idea to do camping inside the city. It's always crowded and moreover, there are police patrols that can catch you and provide some troubles. Try to find free place on a beaches like here: [first point](https://goo.gl/maps/vEU5YiL9fc22), [second one](https://goo.gl/maps/rbr4R4SNivH2), [another](https://goo.gl/maps/bYHiMzgWtLo) or outside the city. However there is a [public park Akbota](https://goo.gl/maps/Aau19Yh51p92) you could try.
 
 ## Hitchhike
-In two words: it works. First you have to reach suburbs to catch a car to the right direction. You can use buses: bus number 3 goes towards the airport (but stops somewhere in the city end), bus number 2 or 3 goes towards the seaport (again, it stops somewhere nearby beach at district 1 (not 2nd bus, it goes further)). Be careful: buses goes in both directions (to and from).
+In two words: it works. First you have to reach suburbs and then catch a car to the right direction. You can use buses: bus number 3 roughly goes towards the airport (but stops somewhere in the city end), bus number 2 or 3 goes towards the seaport (again, it stops somewhere nearby beach at district 1 (not 2nd bus, it goes further)). Be careful: buses goes in both directions (to and from).
 
 ## Feedback
 We had create this page only for improving travel expirience in our city, not for any commercial purposes.
