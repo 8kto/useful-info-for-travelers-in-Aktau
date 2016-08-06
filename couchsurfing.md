@@ -41,7 +41,7 @@ The cheapest option to rent an apartment from private owners (although we doubt 
 
 If all of this variants are not suitable check this links (also map of the city includes a hotel marks):
 - http://www.apartamenty.kz/ru/aktau/kvartiry_posutochno.html
-- https://xn----8sbnadqrtzjid0d5cj.cybo.com/KZ/%D0%B0%D0%BA%D1%82%D0%B0%D1%83/%D1%85%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D1%8B/
+- [http://желтые-страницы...](https://xn----8sbnadqrtzjid0d5cj.cybo.com/KZ/%D0%B0%D0%BA%D1%82%D0%B0%D1%83/%D1%85%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D1%8B/)
 
 
 ## What to do in Aktau
@@ -55,7 +55,7 @@ Main challenge here — all of this sites pretty far from the city. You have to 
 
 List of sites and more information:
 - [Mangystau attractions](http://visitkazakhstan.kz/en/guide/places/11/5/)
-- [Turism in Mangystau](http://en.mangystau.info/turizm/turism)
+- [Tourism in Mangystau](http://en.mangystau.info/turizm/turism)
 - [Interesting report by guy who has visited some of these sites](https://www.lonelyplanet.com/thorntree/forums/asia-central-asia/kazakhstan/aktau-and-mangistau-region)
 
 Maybe you would find some interesting tours here (_no ads, also we haven't any information about service level in this companies_):
