@@ -1,4 +1,4 @@
-# useful-info-for-travelers-in-Aktau
+# Aktau: Useful info for travelers
 What and how to do in Aktau, Kazakhstan. Tips and links.
 
 This is a page with quick tips for those who traveling in Aktau, Mangystau. 
